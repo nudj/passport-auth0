@@ -1,6 +1,7 @@
 {
   "name": "@nudj/passport-auth0",
   "version": "0.1.0",
+  "parentVersion": "0.6.1",
   "description": "Auth0 platform authentication strategy for Passport.js",
   "main": "lib/index.js",
   "scripts": {
